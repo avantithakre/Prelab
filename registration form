@@ -1,0 +1,22 @@
+<html> 
+<head> 
+<title>Form in html </title>
+</head>
+<body> 
+<body background="C:\Users\STUDENTS\Desktop\img.jpg">
+<h2> Registration form</h2> <form>
+<fieldset>
+<legend> User personal information </legend>
+<label>enter your full name</label><br>
+<input type="text" name="name"><br>
+<label>enter your first name</label><br> 
+<input type="text" name="first name"><br> 
+<label>enter your middle name</label><br>
+<input type="text" name="middle name"><br> 
+<label>enter your last name</label><br> 
+<input type="text" name="last name"><br> 
+<label>enter your email</label><br>
+<input type="email" name="email"><br>
+<label>enter your password</label><br>
+<input type="password" name="password"><br>
+</html>
