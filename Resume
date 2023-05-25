@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>Resume</title> </head> <body style="padding: 50px; border: 4px solid seagreen;">
+<center> <h1>Resume</h1> </center>
+<hr><img src="avanti-passport.jpg" align="right" height="150" width="130" style="padding: 25px;">
+<div class="name" style="font-size: 25px;"><p>Avanti Thakre</p></div> 
+<p>Student<br>Email ID:- avantit@sbjit.edu.in</p> <h2>Career Objective</h2>
+<p>I am seeking an workplace where with the help of my skils. I put my organization to grow faster and establish to the highest position.</p> <h2>Education History</h2>
+<table border="5px"> 
+<tr>
+<th>Qualification</th> 
+<th>Board/University</th>
+<th>Year of Passing</th>
+<th>Percentage</th>
+</tr> 
+<tr>
+<td>B.tech</td>
