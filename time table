@@ -1,0 +1,35 @@
+<html lang="en"> 
+<head> 
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<link rel="stylesheet" href="styles.css"> 
+<title>My Study Time Table</title>
+</head>
+<body>
+<font face="Times New Roman" align="center"> 
+<table border="5">
+<tr>
+<th colspan="4">My study Time Table</th> </tr>
+<tr> <th colspan="">Time</th>
+<th colspan="">Activity</th> 
+</tr>
+<tr><td rowspan="2">07:00 AM - 09:00 AM</td></tr> 
+<tr><td>Wake up, get ready for the day, and have breakfast.</td></tr>
+<tr><td rowspan="2">09:00 AM - 10:30 AM</td></tr> 
+<tr><td>Study a challenging subject that you need to focus on. Take short breaks (5-10 minutes) every 25-30 minutes.</td></tr>
+<tr><td rowspan="2">10:30 AM - 10:45 AM</td></tr> <tr><td>Take a quick break and stretch your legs.</td></tr>
+<tr><td rowspan="2">10:45 AM - 12:00 PM</td></tr>
+<tr><td>Study another subject, or work on an assignment. Take breaks as needed.
+tr><td>Work on any remaining assignments or review material from earlier in the day. Take breaks as needed.</td></tr>
+<tr><td rowspan="2">08:30 PM - 09:00 PM</td></tr>
+<tr><td>Take a break and do something relaxing, such as listening to music or taking a bath.</td></tr>
+<tr><td rowspan="2">09:00 PM - 10:00 PM</td></tr> 
+<tr><td>Review material from earlier in the day or prepare for upcoming exams. Take breaks as needed.</td></tr> 
+<tr><td rowspan="2">10:00 PM - 12:00 PM</td></tr>
+<tr><td>Wind down for the day, relax, and get ready for bed.</td></tr>
+</tr> 
+</table>
+</font>
+</body> 
+</html>
