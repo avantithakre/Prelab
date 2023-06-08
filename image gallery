@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="car.html">Cars</a></li>
+<li><a href="plant.html">Plants</a></li>
+<li><a href="animal.html">Animals</a></li>
+</ul>
+</nav>
+<h1>Image Gallery</h1>
+<div class="gallery">
+<a href="car.html">
+<img src="car1.jpg" alt="Car 1">
+</a>
+<a href="car.html">
+<img src="car2.jpg" alt="Car 2">
+</a>
+<a href="plant.html">
+<img src="plant1.jpg" alt="Plant 1">
+</a>
+<a href="plant.html">
+<img src="plant2.jpg" alt="Plant 2">
+</a>
+<a href="animal.html">
+<img src="animal1.jpg" alt="Animal 1">
+</a>
+<a href="animal.html">  
+<img src="animal2.jpg" alt="Animal 2">
+</a>
+</div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Car Page</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color: #f4f4f4;
+}
+.container {
+max-width: 800px;
+margin: 20px auto;
+.car-image {
+margin-bottom: 20px;
+}
+.car-image img {
+width: 100%;
+height: auto;
+}
+.car-caption {
+text-align: center;
+font-size: 16px;
+margin-top: 10px;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Car Page</h1>
+<div class="car-image">
+<img src="car1.jpg" alt="Car Image 1">
+<div class="car-caption">Car Image 1</div>
+</div>
+<div class="car-image">
+<img src="car2.jpg" alt="Car Image 2">
+<div class="car-caption">Car Image 2</div>
+</div>
+<div class="car-image">
+<img src="car3.jpg" alt="Car Image 3">
+<div class="car-caption">Car Image 3</div>
+</div>
+<!-- Add more car-image divs here -->
+</div>
+</body>
+</html>
+}
+
+Code of plant gallery:-
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Image Gallery</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color: #f4f4f4;
+margin: 0;
+padding: 0;
+}
+h1 {
+text-align: center;
+padding: 20px;
+background-color: #333;
+color: #fff;
+margin: 0;
+}
+.container {
+max-width: 1200px;
+margin: 20px auto;
+padding: 0 20px;
+}
+.gallery {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+grid-gap: 20px;
+}
+.image {
+width: 100%;
+height: auto;
+}
+.caption {
+text-align: center;
+font-size: 16px;
+margin-top: 10px;
+}
+</style>
+</head>
+<body>
+<h1>Image Gallery</h1>
+<div class="container">
+<div class="gallery">
+<div class="image">
+<img src="plant1.jpg" alt="Image 1">
+<div class="caption">Image 1</div>
+</div>
+<div class="image">
+<img src="plant2.jpg" alt="Image 2">
+<div class="caption">Image 2</div>
+</div>
+<div class="image">
+<img src="plant3.jpg" alt="Image 3">
+<div class="caption">Image 3</div>
+</div>
+<!-- Add more image divs here -->
+</div>
+</div>
+</body>
+</html>
+Code of animal gallery:-
+!DOCTYPE html>
+<html>
+<head>
+<title>Animal Image Gallery</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<h1>Animal Image Gallery</h1>
+<div class="gallery">
+<img src="animal1.jpg" alt="Image 1">
+<img src="animal2.jpg" alt="Image 2">
+<img src="animal3.jpg" alt="Image 3">
+<img src="animal4.jpg" alt="Image 4">
+<img src="animal5.jpg" alt="Image 5">
+</div>
+</body>
+</html>
